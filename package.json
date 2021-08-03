@@ -2,7 +2,7 @@
   "name": "slick-carousel",
   "version": "1.8.1",
   "description": "the last carousel you'll ever need",
-  "main": "slick/slick.js",
+  "main": "slick/slick.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kenwheeler/slick.git"
@@ -14,7 +14,7 @@
     "js",
     "slider"
   ],
-  "author": "Ken Wheeler <ken_wheeler@me.com>",
+  "author": "Ken Wheeler <ken_wheeler@me.com, Miracle Commerce>",
   "contributors": [
     {
       "name": "ken wheeler",
